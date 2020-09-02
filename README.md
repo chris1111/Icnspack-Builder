@@ -16,6 +16,8 @@ Apple.png ExtHardDrive.png AppleRecv.png ExtAppleRecv.png HardDrive.png�
 NOTE Selector.png must be 80x80 in 144 pixels
 Selected.png  must be 288x288 in 144 pixels
 All the others must be 256x256 in 144 pixels.
+--------------------------------------------
+NOTE: If you have already created a Resource.zip, you must move it to recreate another one otherwise it will be replaced.
 
 View full Video ⬇︎
 
