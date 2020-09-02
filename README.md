@@ -2,9 +2,9 @@
 
 ![droplet](https://user-images.githubusercontent.com/6248794/92038832-04a88980-ed42-11ea-9257-19556c6444bd.png)
 
-Build by [chris1111](https://github.com/chris1111/)
-Created from [Script Debugger](https://latenightsw.com/)
-Credit: [OpenCore Team](https://github.com/acidanthera/OpenCorePkg)
+- Build by [chris1111](https://github.com/chris1111/)
+- Created from [Script Debugger](https://latenightsw.com/)
+- Credit: [OpenCore Team](https://github.com/acidanthera/OpenCorePkg)
 
 This tool is for create OpenCore Themes.
 create this set of Icon at the good size and use 
