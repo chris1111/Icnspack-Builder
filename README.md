@@ -6,16 +6,25 @@
 - Created from [Script Debugger](https://latenightsw.com/)
 - Credit: [OpenCore Team](https://github.com/acidanthera/OpenCorePkg)
 
-This tool is for create OpenCore Themes.
-create this set of Icon at the good size and use 
-the name bellow.
-⬇︎(verry important)⬇︎
-Selector.png Selected.png
-Apple.png ExtHardDrive.png AppleRecv.png ExtAppleRecv.png HardDrive.png AppleTM.png Windows.png Tool.png Shell.png
- 
+This tool is for create OpenCore Themes. create this set of Icon at the good size and use the name bellow.
+⬇(verry important)⬇
+ 
+- Selector.png
+- Selected.png
+- Apple.png
+- ExtHardDrive.png
+- AppleRecv.png
+- ExtAppleRecv.png
+- HardDrive.png
+- AppleTM.png
+- Windows.png
+- Tool.png
+- Shell.png
+
 NOTE Selector.png must be 80x80 in 144 pixels
-Selected.png  must be 288x288 in 144 pixels
-All the others must be 256x256 in 144 pixels.
+ Selected.png must be 288x288 in 144 pixels
+All the others must be 256x256 in 144 pixels
+
 
 NOTE: If you have already created a Resource.zip, you must move it to recreate another one otherwise it will be replaced.
 
