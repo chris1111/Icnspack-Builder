@@ -27,14 +27,15 @@ This tool is for create OpenCore Themes. create this set of Icon at the good siz
 - All the others must be 256x256 in 144 pixels
 
 
-NOTE: If you have already created a Resource.zip, you must move it to recreate another one otherwise it will be replaced.
+- Release V2 Update 03 Sept 2020 Prompt to destination for the ZIP file
+![EN](https://user-images.githubusercontent.com/6248794/92121680-8d6a0880-edc8-11ea-96a4-7630a7ca6e51.png)
 
 View full Video ⬇︎
 
 [![Modular Image Creation](https://i.ibb.co/K5bFrB5/VIDEO.png)](https://youtu.be/omiG6Dp5DQw)
 
 
-### Download ➤ [Icnspack-Builder](https://github.com/chris1111/Icnspack-Builder/releases/tag/V1)
+### Download ➤ [Icnspack-Builder](https://github.com/chris1111/Icnspack-Builder/releases/tag/V2)
 
 ￼
 
