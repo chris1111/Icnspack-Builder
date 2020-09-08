@@ -37,7 +37,7 @@ View full Video ⬇︎
 [![Modular Image Creation](https://i.ibb.co/K5bFrB5/VIDEO.png)](https://youtu.be/omiG6Dp5DQw)
 
 
-### Download V2 ➤ [Icnspack-Builder](https://github.com/chris1111/Icnspack-Builder/releases/tag/V3)
+### Download V3 ➤ [Icnspack-Builder](https://github.com/chris1111/Icnspack-Builder/releases/tag/V3)
 
 ￼
 
