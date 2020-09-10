@@ -4,7 +4,8 @@
 
 - Build by [chris1111](https://github.com/chris1111/)
 - Created from [Script Debugger](https://latenightsw.com/)
-- Credit: [OpenCore Team](https://github.com/acidanthera/OpenCorePkg)
+- Credit: [ImageOptim-CLI](https://github.com/acidanthera/OpenCorePkg)
+- Credit: [OpenCore Team](https://github.com/JamieMason/ImageOptim-CLI#installation)
 
 This tool is for create OpenCore Themes. create this set of Icon at the good size and use the name bellow.
 ### ⬇(verry important)⬇
@@ -27,7 +28,8 @@ This tool is for create OpenCore Themes. create this set of Icon at the good siz
 - All the others must be 256x256 in 144 pixels
 
 
-### Release V3 Update 04 Sep 2020 Fix using the app in DarkMode
+### Release V4 Update 10 Sep 2020 Add CL ImageOptim
+- V3 Update 04 Sep 2020 Fix using the app in DarkMode
 - V2 Update 03 Sept 2020 Prompt to destination for the ZIP file
 ![EN](https://user-images.githubusercontent.com/6248794/92121680-8d6a0880-edc8-11ea-96a4-7630a7ca6e51.png)
 
@@ -37,7 +39,7 @@ View full Video ⬇︎
 [![Modular Image Creation](https://i.ibb.co/K5bFrB5/VIDEO.png)](https://youtu.be/nxrENX-bslg)
 
 
-### Download V3 ➤ [Icnspack-Builder](https://github.com/chris1111/Icnspack-Builder/releases/tag/V3)
+### Download V3 ➤ [Icnspack-Builder](https://github.com/chris1111/Icnspack-Builder/releases/tag/V4)
 
 ￼
 
