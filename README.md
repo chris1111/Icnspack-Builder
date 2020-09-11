@@ -7,8 +7,8 @@
 - Credit: [pngquant](https://pngquant.org)
 - Credit: [OpenCore Team](https://github.com/acidanthera/OpenCorePkg)
 
-This tool is for create OpenCore Themes. create this set of Icon at the good size and use the name bellow.
-### ⬇(verry important)⬇
+This tool is for create OpenCore Themes. create this set of Icon at the good size.
+### ⬇(Exemple)⬇
  
 - Selector.png
 - Selected.png
