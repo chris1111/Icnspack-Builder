@@ -32,7 +32,6 @@ This tool is for create OpenCore Themes. create a set of Icon at the good size.
 - Update 10 Sep 2020 Add pngquant
 - V3 Update 04 Sep 2020 Fix using the app in DarkMode
 - V2 Update 03 Sept 2020 Prompt to destination for the ZIP file
-![EN](https://user-images.githubusercontent.com/6248794/92121680-8d6a0880-edc8-11ea-96a4-7630a7ca6e51.png)
 
 
 View full Video ⬇︎
