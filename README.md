@@ -6,6 +6,8 @@
 - Created from [Script Debugger](https://latenightsw.com/)
 - Credit: [pngquant](https://pngquant.org)
 - Credit: [OpenCore Team](https://github.com/acidanthera/OpenCorePkg)
+- Credit: [pkdesign](https://www.insanelymac.com/forum/profile/488070-pkdesign/)
+- Credit: [blackosx](https://www.insanelymac.com/forum/profile/331032-blackosx/)
 
 This tool is for create OpenCore Themes. create a set of Icon at the good size.
 ### ⬇(Exemple)⬇
