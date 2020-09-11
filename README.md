@@ -28,7 +28,8 @@ This tool is for create OpenCore Themes. create this set of Icon at the good siz
 - All the others must be 256x256 in 144 pixels
 
 
-### Release V4 Update 10 Sep 2020 Add pngquant
+### Release V5 Update 11 Sep 2020 support any icons name.
+- Update 10 Sep 2020 Add pngquant
 - V3 Update 04 Sep 2020 Fix using the app in DarkMode
 - V2 Update 03 Sept 2020 Prompt to destination for the ZIP file
 ![EN](https://user-images.githubusercontent.com/6248794/92121680-8d6a0880-edc8-11ea-96a4-7630a7ca6e51.png)
@@ -36,10 +37,10 @@ This tool is for create OpenCore Themes. create this set of Icon at the good siz
 
 View full Video ⬇︎
 
-[![Modular Image Creation](https://i.ibb.co/K5bFrB5/VIDEO.png)](https://youtu.be/nxrENX-bslg)
+[![Modular Image Creation](https://i.ibb.co/K5bFrB5/VIDEO.png)](https://youtu.be/1d_UFFG1Qp4)
 
 
-### Download V4 ➤ [Icnspack-Builder](https://github.com/chris1111/Icnspack-Builder/releases/tag/V4)
+### Download V ➤ [Icnspack-Builder](https://github.com/chris1111/Icnspack-Builder/releases/tag/V5)
 
 ￼
 
