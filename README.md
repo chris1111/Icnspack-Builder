@@ -24,10 +24,12 @@ This tool is for create OpenCore Themes. create a set of Icon at the good size.
 - Tool.png
 - Shell.png
 
-## TAKE NOTE 
 - Selector.png must be 80x80 in 144 pixels
 - Selected.png must be 288x288 in 144 pixels
 - All the others must be 256x256 in 144 pixels
+
+#### Looking for ➣ [Themes exemple](https://github.com/chris1111/My-Simple-OC-Themes)
+
 
 
 ### Release V5 Update 11 Sep 2020 support any icons name.
