@@ -32,7 +32,8 @@ This tool is for create OpenCore Themes. create a set of Icon at the good size.
 
 
 
-### Release V5 Update 11 Sep 2020 support any icons name.
+### Release Update
+- Update 26 Sep 2020 Fix position of startup screen.
 - Update 10 Sep 2020 Add pngquant
 - V3 Update 04 Sep 2020 Fix using the app in DarkMode
 - V2 Update 03 Sept 2020 Prompt to destination for the ZIP file
@@ -43,7 +44,7 @@ View full Video ⬇︎
 [![Modular Image Creation](https://i.ibb.co/K5bFrB5/VIDEO.png)](https://youtu.be/1d_UFFG1Qp4)
 
 
-### Download V5 ➤ [Icnspack-Builder](https://github.com/chris1111/Icnspack-Builder/releases/tag/V5)
+### Download V5 ➤ [Icnspack-Builder](https://github.com/chris1111/Icnspack-Builder/releases/tag/V6)
 
 ￼
 
