@@ -49,7 +49,10 @@ View full Video ⬇︎
 
 Create App Video ⬇︎
 
-https://user-images.githubusercontent.com/6248794/103572027-ea222080-4e99-11eb-8118-253f3542cd3f.mov
+[![Modular Image Creation](https://i.ibb.co/K5bFrB5/VIDEO.png)](https://user-images.githubusercontent.com/6248794/103572027-ea222080-4e99-11eb-8118-253f3542cd3f.mov)
+
+
+
 
 
 
