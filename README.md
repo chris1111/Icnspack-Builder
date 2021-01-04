@@ -33,6 +33,7 @@ This tool is for create OpenCore Themes. create a set of Icon at the good size.
 
 
 ### Release Update
+- Update 04 Jan 2021 Add create_app.command
 - Update 26 Sep 2020 Fix position of startup screen.
 - Update 10 Sep 2020 Add pngquant
 - V3 Update 04 Sep 2020 Fix using the app in DarkMode
@@ -46,5 +47,5 @@ View full Video ⬇︎
 
 ### Download V6 ➤ [Icnspack-Builder](https://github.com/chris1111/Icnspack-Builder/releases/tag/V6)
 
-￼
+
 

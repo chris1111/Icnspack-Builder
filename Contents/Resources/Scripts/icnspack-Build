@@ -1,0 +1,51 @@
+#!/bin/bash
+# Simple bash script for icnspack by chris1111
+# Credit: OpenCore Team, blackosx, pkdesign, pngquant. 
+PARENTDIR=$(dirname "$0")
+cd "$PARENTDIR"
+
+
+[[ ! -f icnspack ]] && echo "Error. Missing icnspack tool" && exit 1
+[[ ! -f pngquant ]] && echo "Error. Missing pngquant tool" && exit 1
+
+IN_DIR="/Private/tmp/Icon"
+OUT_DIR="/Private/tmp/Resource"
+
+[[ ! -d "$IN_DIR" ]] && mkdir -p "$IN_DIR"
+[[ ! -d "$OUT_DIR" ]] && mkdir -p "$OUT_DIR"
+
+for pngFile in "$IN_DIR"/*.png
+do
+
+  filename=$(basename -- "$pngFile")
+  filenameNoExt="${filename%*.png}"
+
+  cp "$pngFile" "$OUT_DIR"
+
+  width=$(sips -g pixelWidth "$pngFile")
+  height=$(sips -g pixelHeight "$pngFile")
+
+  width="${width##*: }"
+  height="${height##*: }"
+
+  halfWidth=$(( width/2 ))
+  halfHeight=$(( height/2 ))
+
+  sips --deleteProperty profile -Z $halfWidth $halfHeight "$pngFile" --out "$OUT_DIR"/"$filenameNoExt"_sml.png &>/dev/null
+
+  ./pngquant --quality=90 --ext=.png --force "$OUT_DIR"/*.png
+
+  ./icnspack "$OUT_DIR"/"$filenameNoExt".icns "$OUT_DIR"/"$filenameNoExt"_sml.png "$OUT_DIR"/"$filenameNoExt".png && echo "Generated $filenameNoExt.icns" && rm "$OUT_DIR"/*.png
+
+
+
+done
+
+
+
+Sleep 1
+cd /Private/tmp 
+zip -r Resource.zip Resource
+Sleep 1
+rm -rf /tmp/Icon
+rm -rf /tmp/Resource
