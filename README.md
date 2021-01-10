@@ -1,6 +1,6 @@
 # Icnspack-Builder
 
-![92473755-02fb1d80-f1a9-11ea-8f17-607fd1a2b536](https://user-images.githubusercontent.com/6248794/92949764-a0648480-f429-11ea-8fcf-bf6942ae92d7.png)
+<img width="128" alt="AppIcon 2" src="https://user-images.githubusercontent.com/6248794/104127060-060c4300-532e-11eb-8edb-9b362ca92021.png">
 
 - Build by [chris1111](https://github.com/chris1111/)
 - Created from [Script Debugger](https://latenightsw.com/)
@@ -33,6 +33,7 @@ This tool is for create OpenCore Themes. create a set of Icon at the good size.
 
 
 ### Release Update
+- Update 10 Jan 2021 change Icon
 - Update 04 Jan 2021 Add create_app.command
 - Update 26 Sep 2020 Fix position of startup screen.
 - Update 10 Sep 2020 Add pngquant
@@ -45,7 +46,7 @@ View full Video ⬇︎
 [![Modular Image Creation](https://i.ibb.co/K5bFrB5/VIDEO.png)](https://youtu.be/1d_UFFG1Qp4)
 
 
-### Download V6 ➤ [Icnspack-Builder](https://github.com/chris1111/Icnspack-Builder/releases/tag/V6)
+### Download V7 ➤ [Icnspack-Builder](https://github.com/chris1111/Icnspack-Builder/releases/tag/V7)
 
 Create App Video ⬇︎
 
