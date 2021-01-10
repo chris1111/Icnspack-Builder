@@ -1,6 +1,6 @@
 # Icnspack-Builder
 
-<img width="128" alt="AppIcon 2" src="https://user-images.githubusercontent.com/6248794/104127060-060c4300-532e-11eb-8edb-9b362ca92021.png">
+<img width="256" alt="AppIcon 2" src="https://user-images.githubusercontent.com/6248794/104127060-060c4300-532e-11eb-8edb-9b362ca92021.png">
 
 - Build by [chris1111](https://github.com/chris1111/)
 - Created from [Script Debugger](https://latenightsw.com/)
