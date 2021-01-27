@@ -33,6 +33,7 @@ This tool is for create OpenCore Themes. create a set of Icon at the good size.
 
 
 ### Release Update
+- Update 27 Jan 2021 Now the AppleScript is read and write in V8
 - Update 10 Jan 2021 change Icon
 - Update 04 Jan 2021 Add create_app.command
 - Update 26 Sep 2020 Fix position of startup screen.
@@ -48,9 +49,6 @@ View full Video ⬇︎
 
 ### Download V8 ➤ [Icnspack-Builder](https://github.com/chris1111/Icnspack-Builder/releases/tag/V8)
 
-Create App Video ⬇︎
-
-[![Modular Image Creation](https://i.ibb.co/K5bFrB5/VIDEO.png)](https://user-images.githubusercontent.com/6248794/103572027-ea222080-4e99-11eb-8118-253f3542cd3f.mov)
 
 
 
