@@ -42,7 +42,7 @@ cp -r ./Contents/Resources/Scripts/pngquant "$APP_NAME"/Contents/Resources/Scrip
 Sleep 1
 
 # Change icons
-./icon ./Contents/Resources/droplet.icns "$APP_NAME"
+./icon.py ./Contents/Resources/droplet.icns "$APP_NAME"
 
 echo " = = = = = = = = = = = = = = = = = = = = = = = = = 
 Icnspack-Builder.app completed
