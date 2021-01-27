@@ -1,4 +1,3 @@
-
 # Icnspack-Builder
 # (c) Copyright 2020 chris1111 
 # This will create a Apple Bundle App Icnspack-Builder
@@ -40,10 +39,14 @@ cp -r ./Contents/Resources/Scripts/icnspack "$APP_NAME"/Contents/Resources/Scrip
 cp -r ./Contents/Resources/Scripts/icnspack-Build "$APP_NAME"/Contents/Resources/Scripts
 cp -r ./Contents/Resources/Scripts/pngquant "$APP_NAME"/Contents/Resources/Scripts
 
-xattr -cr "$APP_NAME"
+Sleep 1
+
+# Change icons
+./icon.py ./Contents/Resources/droplet.icns ./HP-Icon.icns "$APP_NAME"
 
 echo " = = = = = = = = = = = = = = = = = = = = = = = = = 
 Icnspack-Builder.app completed
 = = = = = = = = = = = = = = = = = = = = = = = = =  "
+
 
 
