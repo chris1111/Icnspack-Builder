@@ -23,12 +23,18 @@ This tool is for create OpenCore Themes. create a set of Icon at the good size.
 - Windows.png
 - Tool.png
 - Shell.png
-- Background.png
+- Left.png
+- Right.png
+- Background.png 
+-----------------------------
+#### TAKE NOTE:
+* New: Background.png for OC 0.6.6 and Higher must be 3840x2160in 144 pixels this is for 1080p
+* New: Left.png and Right.png for OC 0.6.6 and Higher must be 80x80in 144 pixels
+* New: Selector.png for OC 0.6.6 and Higher must be 288x80 in 144 pixels
 
-- Background.png must be 3840x2160 in 144 pixels this is for 1080p
-- Selector.png must be 80x80 in 144 pixels
-- Selected.png must be 288x288 in 144 pixels
-- All the others must be 256x256 in 144 pixels
+* Selector.png must be 80x80 in 144 pixels
+* Selected.png must be 288x288 in 144 pixels
+* All the others must be 256x256 in 144 pixels
 
 #### Looking for ➣ [Themes exemple](https://github.com/chris1111/My-Simple-OC-Themes)
 
