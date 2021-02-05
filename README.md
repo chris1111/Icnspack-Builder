@@ -23,7 +23,9 @@ This tool is for create OpenCore Themes. create a set of Icon at the good size.
 - Windows.png
 - Tool.png
 - Shell.png
+- Background.png
 
+- Background.png must be 3840x2160 in 144 pixels this is for 1080p
 - Selector.png must be 80x80 in 144 pixels
 - Selected.png must be 288x288 in 144 pixels
 - All the others must be 256x256 in 144 pixels
@@ -33,6 +35,7 @@ This tool is for create OpenCore Themes. create a set of Icon at the good size.
 
 
 ### Release Update
+- Update 05 Feb 2021 You can create Background
 - Update 27 Jan 2021 Now the AppleScript is read and write in V8
 - Update 10 Jan 2021 change Icon
 - Update 04 Jan 2021 Add create_app.command
@@ -47,7 +50,7 @@ View full Video ⬇︎
 [![Modular Image Creation](https://i.ibb.co/K5bFrB5/VIDEO.png)](https://youtu.be/1d_UFFG1Qp4)
 
 
-### Download V8 ➤ [Icnspack-Builder](https://github.com/chris1111/Icnspack-Builder/releases/tag/V8)
+### Download V9 ➤ [Icnspack-Builder](https://github.com/chris1111/Icnspack-Builder/releases/tag/V9)
 
 
 
