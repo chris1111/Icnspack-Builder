@@ -76,6 +76,14 @@ View full Video ⬇︎
 ### Download V10 ➤ [Icnspack-Builder](https://github.com/chris1111/Icnspack-Builder/releases/tag/V10)
 
 
+### Setup config.plist
+
+- Misc -> Boot -> PickerMode: External
+- Misc -> Boot -> PickerVariant: Default, Modern or Auto
+- Auto — Automatically select one set of icons based on DefaultBackground colour.
+- Default — Default icon set.
+- Modern — Modern icon set.
+- UEFI -> Drivers add OpenCanopy.efi
 
 
 
