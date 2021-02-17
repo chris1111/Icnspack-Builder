@@ -1,5 +1,8 @@
 # Icnspack-Builder
 
+This repos is archived. Updated for  ➣ [OpenCanopy-Generator](https://github.com/chris1111/OpenCanopy-Generator)
+
+
 <img width="256" alt="AppIcon 2" src="https://user-images.githubusercontent.com/6248794/104127060-060c4300-532e-11eb-8edb-9b362ca92021.png">
 
 - Build by [chris1111](https://github.com/chris1111/)
